@@ -1,0 +1,5 @@
+{
+    "1": ["Admin", ["add_user", "delete_user"]],
+    "2": ["Moderator", ["handle_ticket"]],
+    "3": ["Member", ["update_profile"]]
+}

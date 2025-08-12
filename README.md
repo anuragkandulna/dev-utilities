@@ -1,4 +1,4 @@
-# dev-utilities
+# Development Utilities
 
 A collection of automation scripts and utilities for database management, environment setup, and development workflows.
 
